@@ -69,7 +69,7 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
-.time, .content, .save{
+.time, .content, .save {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: rgba(86, 61, 124, .15);
@@ -78,3 +78,10 @@ body {
 .point{
   cursor: pointer;
 }
+/* .btn {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-left: 6em;
+} */
