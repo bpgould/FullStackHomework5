@@ -69,19 +69,22 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
-.time, .content, .save {
+  .time, .content, .save {
   padding-top: 15px;
   padding-bottom: 15px;
   background-color: rgba(86, 61, 124, .15);
   border: 1px solid rgba(86, 61, 124, .2);
-}  
-.point{
+  }  
+  .point{
   cursor: pointer;
-}
-/* .btn {
-  padding-left: 1em;
-  padding-right: 1em;
-  padding-top: 1em;
-  padding-bottom: 1em;
-  margin-left: 6em;
-} */
+  } 
+  .btn {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  }
+  .row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
